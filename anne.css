@@ -1,0 +1,9 @@
+@charset "UTF: 8";
+
+body{
+    background-color: rgb(235, 169, 169);
+}
+
+.container {
+    display: flex;
+}
